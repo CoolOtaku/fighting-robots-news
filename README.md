@@ -33,12 +33,14 @@ The project visualizes the work of a news website on the topic of eSports. Witho
 - Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Data storage in files in **JSON** format (without using the **API**)
 - Using the library [**jQuery**](https://jquery.com)
+- Using the ***Cookie*** system
 - Search for information and navigation on the site
 
 <b>UA:</b>
 - Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Зберігання даних у файлах у форматі **JSON** (без використання **API**)
 - Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання системи ***Cookie***
 - Пошук інформації та навігація по сайту
 
 #
