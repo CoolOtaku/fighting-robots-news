@@ -1,4 +1,4 @@
-<p align="center"><img width="128" height="128" src="assets/img/logo.png" /></p>
+<p align="center"><img width="128" height="128" src="assets/img/logo.png"/></p>
 <h1 align="center">Fighting Robot News</h1>
 
 ## Description
@@ -21,8 +21,6 @@ The project visualizes the work of a news website on the topic of eSports. Witho
   <img src="screens/s2.png" height="20%"/>
   <img src="screens/s3.png" height="20%"/>
   <img src="screens/s4.png" height="20%"/>
-</p>
-<p>
   <img src="screens/sm1.png" height="20%"/>
   <img src="screens/sm2.png" height="20%"/>
   <img src="screens/sm3.png" height="20%"/>
@@ -32,13 +30,15 @@ The project visualizes the work of a news website on the topic of eSports. Witho
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Data storage in files in **JSON** format (without using the **API**)
+- Using the library [**jQuery**](https://jquery.com)
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Зберігання даних у файлах у форматі **JSON** (без використання **API**)
+- Використання бібліотеки [**jQuery**](https://jquery.com)
 - Пошук інформації та навігація по сайту
 
 #
